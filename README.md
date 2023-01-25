@@ -1,4 +1,4 @@
 # hello-world
 first github project
-mod 
-markDown
+My first repository on GitHub
+I love ☕ 🍕, and 🌞
